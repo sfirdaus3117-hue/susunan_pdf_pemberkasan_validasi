@@ -2,14 +2,14 @@
 
 ## Isi folder
 - `index.html` — website daftar dokumen dengan tema militer dan menu klik-buka.
-- Tambahkan file PDF sumber ke folder ini dengan nama persis `RINDRA AFRILYANSYAH.pdf`.
+- `RINDRA AFRILYANSYAH.pdf` — dokumen sumber yang dibuka dari menu website.
 
 ## Menjalankan di komputer/HP
-Buka `index.html` menggunakan browser. Agar tombol menuju halaman PDF berfungsi, letakkan PDF di folder yang sama.
+Buka `index.html` menggunakan browser. File PDF sudah disertakan dalam paket dan harus tetap berada satu folder dengan `index.html`.
 
 ## Mengunggah ke GitHub Pages
 1. Buat repository baru di GitHub.
-2. Unggah `index.html` dan PDF ke repository.
+2. Unggah `index.html` dan `RINDRA AFRILYANSYAH.pdf` ke repository.
 3. Buka **Settings → Pages**.
 4. Pada **Build and deployment**, pilih **Deploy from a branch**.
 5. Pilih branch `main` dan folder `/root`, lalu tekan **Save**.
